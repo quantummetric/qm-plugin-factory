@@ -1,0 +1,16 @@
+{
+  "name": "quantum-metric",
+  "description": "Quantum Metric plugins for Factory Droid",
+  "owner": {
+    "name": "Quantum Metric"
+  },
+  "plugins": [
+    {
+      "name": "quantum-metric",
+      "description": "Analyze funnels, errors, friction and session replays in Quantum Metric to find and fix digital experience issues",
+      "source": "./",
+      "homepage": "https://www.quantummetric.com",
+      "category": "analytics"
+    }
+  ]
+}
